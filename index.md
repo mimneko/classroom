@@ -1,7 +1,7 @@
 # 授業資料ダウンロードページ
 授業ノート（PDFファイル）
 
-- [数学Ⅰ](https://mimneko.github.io/math-1/数学Ⅰ.pdf)
+- [数学Ⅰ]([https://mimneko.github.io/math-1/数学Ⅰ.pdf](https://github.com/mimneko/math-1/blob/main/数学Ⅰ.pdf))
     - 数と式
     - 図形と計量
     - 二次関数
