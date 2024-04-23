@@ -2,7 +2,7 @@
 授業ノート（PDFファイル）
 
 - [数学Ⅰ](https://github.com/mimneko/math-1/blob/main/数学Ⅰ.pdf)
-    - 数と式
+    - [数と式](https://github.com/mimneko/math-1/blob/main/数と式/数と式.pdf)
     - 図形と計量
     - 二次関数
     - データの分析
