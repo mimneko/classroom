@@ -33,7 +33,7 @@
 # ダウンロード方法（githubの使い方）
 ...を押したあと、Downloadを押す。
 
-![スマホ画面サンプル](https://kaiunillust.com/wp-content/uploads/2018/07/turineko.jpg)
+![スマホ画面サンプル](phone.png)
 
 # 動画ファイル名例
 1020104【数学Ⅰ】補集合、ド・モルガンの法則【高校数学】240424.mp4
