@@ -8,3 +8,8 @@ description: A description of your blog
 baseurl: "/classroom" # the subpath of your site, e.g. /blog
 url: "https://mimneko.github.io" # the base hostname & protocol for your site
 theme: _my-theme
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
