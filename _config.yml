@@ -1,8 +1,7 @@
 title: みむねこのーと
-description:
+description: 
 baseurl: "/classroom" # the subpath of your site, e.g. /blog
 url: "https://mimneko.github.io" # the base hostname & protocol for your site
-theme: _my-theme
 
 # Build settings
 markdown: kramdown
@@ -10,5 +9,5 @@ plugins:
   - jekyll-feed
 
 sass:
-  sass_dir: _my-theme/assets
+  sass_dir: assets
   style: compressed
