@@ -13,3 +13,7 @@ theme: _my-theme
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+sass:
+  sass_dir: _my-theme/assets
+  style: compressed
