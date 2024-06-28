@@ -1,10 +1,5 @@
-#theme: jekyll-theme-slate
-#title: みむねこのーと
-#description: 
-#lang: ja
-
-title: Your Blog Title
-description: A description of your blog
+title: みむねこのーと
+description:
 baseurl: "/classroom" # the subpath of your site, e.g. /blog
 url: "https://mimneko.github.io" # the base hostname & protocol for your site
 theme: _my-theme
